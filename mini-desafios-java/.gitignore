@@ -28,3 +28,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Arquivos compilados do Java
+out/
+*.class
+
+# Arquivos temporários
+*.log
